@@ -5,11 +5,17 @@ This software treats each variable as a character, not integer, and that decisio
 focusing  instead on interface functionality and save/load as files.
 
 This spreadsheet is capable of:
+
 ⦁	Creating a new empty spreadsheet, 4x5.
+
 ⦁	Add/remove lines into a spreadsheet (max: 8)
+
 ⦁	Add/remove columns into a spreadsheet(max: 6)
+
 ⦁	Edit fields,lines and columns.
+
 ⦁	Save the spreadsheet into .txt file
+
 ⦁	Load the last spreadsheet
 
 
